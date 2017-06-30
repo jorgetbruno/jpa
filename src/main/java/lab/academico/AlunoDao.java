@@ -43,7 +43,7 @@ public class AlunoDao {
     EntityManager em = emf.createEntityManager();
 
     Aluno aluno = em.find(Aluno.class, matricula);
-    
+
     em.getTransaction().begin();
     em.remove(aluno);
     em.getTransaction().commit();

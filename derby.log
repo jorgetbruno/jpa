@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu Jun 29 22:28:12 BRT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-f69c-d370-000007b0e7f8 
+Thu Jun 29 22:38:08 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-f6a5-eca1-00000954a250 
 on database directory /home/android/Downloads/lab-dw-2017-1-master/db with class loader WebappClassLoader
   context: /exercicio
   delegate: false
